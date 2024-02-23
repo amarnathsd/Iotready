@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Iotready/static/css/main.f855e6bc.css",
+    "main.js": "/Iotready/static/js/main.e40b83d6.js",
+    "static/js/453.499ee54b.chunk.js": "/Iotready/static/js/453.499ee54b.chunk.js",
+    "index.html": "/Iotready/index.html",
+    "main.f855e6bc.css.map": "/Iotready/static/css/main.f855e6bc.css.map",
+    "main.e40b83d6.js.map": "/Iotready/static/js/main.e40b83d6.js.map",
+    "453.499ee54b.chunk.js.map": "/Iotready/static/js/453.499ee54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e40b83d6.js"
+  ]
+}
